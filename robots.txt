@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.oranphos.com/sitemap.xml
+Sitemap: https://oranphos.com/sitemap.xml

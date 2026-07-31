@@ -47,8 +47,8 @@ Review status: all paths below contain newly authored or materially edited Engli
 - All “10 consecutive lots,” B01–B10 values and 2026 dates inherited from the unified file are explicitly illustrative and must be replaced by live, approved COAs.
 - Confirm 0.07% water insolubles and 0.0014% chloride are approved typical claims, not universal guarantees.
 - Confirm all certifications are current and registered to the legal entity operating the plant.
-- Confirm plant history, RMB 300 million investment, 82 mu, 24,500 m² workshops, 5,000 m² R&D/office, 15 patents and AAA credit wording against legal records.
+- Confirm plant history, RMB 300 million investment, 5.5 hectares (54,700 m²), 24,500 m² workshops, 5,000 m² R&D/office, 15 patents and AAA credit wording against legal records.
 - Confirm 50,000 t/y phosphate-salt and 20,000 t/y thermal-acid capacities against permits and current operating scope.
 - Confirm HS 2835.24 with the destination customs broker; classification can vary with grade and local tariff interpretation.
 - Confirm FOB Shanghai/Qingdao, 10–14 day lead time, 25 kg × 1,000 bags, 40 bags/pallet and 30/70 T/T against B/L copy before publishing as standing terms.
-- Confirm the public canonical domain. `sitemap.xml` and `robots.txt` currently use `https://www.oranphos.com/`.
+- Public canonical domain is set to `https://oranphos.com/` in `sitemap.xml` and `robots.txt`.

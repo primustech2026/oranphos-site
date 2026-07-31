@@ -11,7 +11,7 @@ This register separates manufacturer-supplied facts, public technical references
 | First exports | 2017 | Manufacturer brief | Verify against customs or shipment records |
 | Reorganization investment | RMB 300 million in 2019 | Manufacturer brief | Verify against investment and legal records |
 | Thermal acid line | 20,000 t/y; commissioned 2021; DCS/SIS/heat recovery | Manufacturer brief and source HTML | Verify against equipment, permit and commissioning records |
-| Campus | 82 mu; Fengxiang, Baoji, Shaanxi | Manufacturer brief | Verify legal address and land record |
+| Campus | 5.5 hectares (54,700 m²); Fengxiang, Baoji, Shaanxi | Manufacturer brief | Verify legal address and land record |
 | Built area | 24,500 m² production; 5,000 m² R&D/office | Manufacturer brief | Verify construction/asset records |
 | Product scope | 6 series; 20+ products | Manufacturer brief | Confirm current commercial catalogue |
 | Salt capacity | 50,000 t/y across 4 lines | Manufacturer brief and source HTML | Confirm permitted and current operating capacity |
